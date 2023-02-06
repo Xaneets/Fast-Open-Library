@@ -9,7 +9,6 @@ and modeling. The project leverages the power of Rust to ensure lightning-fast p
 memory utilization, making it the perfect solution for big data tasks. Whether you're working on a machine
 learning project or simply need to clean and format data for further analysis, Fast-Open-Library has got you covered.
 Try it out today and experience the difference that Rust-powered performance can make!
----
 
 The open library file can be a challenge to work with due to inconsistent data format. 
 Direct importing often leads to errors as the number of columns in the file varies. 
